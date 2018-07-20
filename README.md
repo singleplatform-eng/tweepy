@@ -1,3 +1,5 @@
+[![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiRVhUUnQ3TWVXRVZFSm8vV0lBbjBYMlhlK3B6bWJCWmZ5Y25WQ24xQXhkU1N0S25LWWRGSWpmT2czRG9maXRQTzFSSWRLazEvNFI5NW5WWUlzL3lZMy9ZPSIsIml2UGFyYW1ldGVyU3BlYyI6IkQ1S1h5c1o0Qk15UG4zTEoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)](https://console.aws.amazon.com/codebuild/home?region=us-east-1#/projects/vendored_tweepy/view)
+
 Tweepy [![Build Status](https://travis-ci.org/tweepy/tweepy.png)](https://travis-ci.org/tweepy/tweepy)
 ======
 *Twitter for Python!*
